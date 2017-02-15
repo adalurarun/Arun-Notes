@@ -1,0 +1,356 @@
+﻿Transistors
+PNP
+NPN
+
+
+
+what is misra c ?
+
+
+
+10.2724
+
+
+
+C
+C++
+Embedded
+	Microocntroller
+	Communication Protocals
+	Wifi
+	Zigbee
+	I2C
+	RS232
+	UART
+	SPI
+
+
+benisontechnologies.com (Saravanan friend)
+
+
+
+SYLLABUS OVERVIEW
+
+The syllabus of 10 products will be framed as per the requirement of corporate. We are mainly concentrating in the following syllabus
+
+    Electronics
+    ATMEL
+    PIC
+    ARM
+    C
+    C++
+    LabVIEW
+    German
+    RTOS
+    Linux
+
+
+_______________________________________________________________
+http://lastbenchindia.com/Scope-of-embedded-system-in-world.php
+
+Our Vision Level-5 Alpha MNC’s
+
+    1. Intel
+    2. IBM
+    3. Philips
+    4. Motorola
+    5. LG Electronics
+    6. Texas Instruments
+    7. VOLVO
+    8. Freescale
+
+Our Aimed Level-5 Beta MNC’s
+
+    1. Delphi automotive
+    2. Visteon Corporation
+    3. John Deere India pvt ltd
+    4. Robert Bosch engineering and business solutions limited
+    5. Caterpillar India
+    6. General Motors
+    7. Cisco Systems India Pvt Ltd
+    8. Ashok Leyland
+    9. L&T InfoTech
+    10. Honeywell India
+    11. Wipro Technologies
+    12. HCL Technologies
+    13. KPIT Cummins Info systems
+    14. Siemens
+    15. Tata Elxsi
+    16. Rockwell well India
+    17. ETAS automotive
+    18. EMC corporation India
+    19. Sasken communication technologies ltd
+    20. Infosys
+    21. Renault Nissan Automotive India Private Limited
+    22. mistral solutions
+    23. Robosoft systems
+    24. Vista infosystems Chennai
+    25. Automotive Infotronics
+    27. Jasmin Infotech Private Limited
+    28. Dexcel Designs
+    29. SMSC
+    30. Einfochips and so on...
+_______________________________________________________________
+
+
+
+Bangalore embedded companies (resume Sent at 2016_10_13th)
+http://www.siliconindia.com/magazine-in/10-most-promising-embedded-companies-in-india.html
+			1.	http://brisa-tech.com/
+			2.	http://www.embeddedindia.com/
+			3.	http://www.imicrosystem.com
+			4.	http://www.indrion.co.in/
+			5.	http://www.solitontech.com
+_______________________________________________________________
+	
+http://dangerousprototypes.com/
+________________________
+angels and demons
+daven ci code
+___________________________________
+
+What is the Reason for you select in Interview Ultimo company?
+
+"High way systems" bangalore, BTM
+"High way systems" bangalore, BTM
+mo -> 
+tech mahindra
+
+
+http://www.careesma.in/
+http://www.indeed.co.in/
+http://my.monsterindia.com/
+https://www.naukri.com/
+round one in
+http://www.shine.com
+https://kpit.talentojo.com/tojo/app/career-portal/#/133
+
+
+https://intel.taleo.net/careersection
+https://jobs.qualcomm.com/jobs/myStatus.xhtml
+http://www.siliconindia.com/magazine-in/10-most-promising-embedded-companies-in-india.html
+
+
+intel
+IBM
+Qualcomm
+Tech mahindra
+Wipro
+L&T
+Samsung
+Siemens 
+Robert Bosch
+Acorn Embedded Systems, Hyderabad, Andhra Pradesh (www.acornembeddedsystems.com)
+Honeywell
+Continental
+Microchip
+Atmel
+Pramura. Com
+_______________________________________________________________
+
+C Interview Questions
+
+Q : What is Function Poiter?
+	int(*fun)(int, int, int)
+
+Q : Difference B/W Macro and function?
+	limitations of macros?
+
+Q : Diff between Variable declaration and variabale difination?
+
+Q : variable leftshift? value increase
+
+Q : What is LinkList? (point)
+1,2,3,4,5,
+
+Tranget
+%e and %g
+itreation and recurrsion   
+
+________________________
+
+# Preprocessor Director
+
+includes
+Macros
+Progrmas
+
+
+_______________________________________________________________
+
+have good communication skills and should be quick learner Good experience in Linux kernel area and debugging Board bring+C4-up, schematics understanding and hardware debugging Proficiency in common bus architectures like I2C, USB, PCI, SPI, SSI etc
+
+Excellent Programming skills in C, 8-bit / 32-bit microcontrollers like ARM / 8051
+____________________________________________________________
+Refere Website : www.careerride.com/embedded-systems-interview-questions.aspx
+Qus : What is the need for an infinite loop in Embedded systems?
+Ans : Embedded systems need infinite loops for repeatedly processing/monitoring the state of the program
+		Example:
+			While(Boolean True) OR for(;;);
+			{
+			//Code
+			}
+		For e.g. Customer care Telephone systems where in a pre-recorded audio file is played in case the dialer is put on hold..
+		
+		
+Qus : A vast majority of High Performance Embedded systems today use RISC architecture why?
+Ans : 
+
+_______________________________________________________________
+Rober Bosch (2016_10_25 Saravana Kumar)
+Qus : What is Memory Optimization and code Optimization ?
+
+Qus : Write a Swaping to numbers without using third variable?
+
+Qus : What is function pointer?
+	Ans :	A function pointer is a variable that stores the address of a function that can later be called through that function pointer.
+			This is useful because functions encapsulate behavior. For instance, every time you need a particular behavior such as drawing a line, instead of writing out a bunch of code, all you need to do is call the function.
+			But sometimes you would like to choose different behaviors at different times in essentially the same piece of code.
+			Read on for concrete examples. 
+			
+			Function Pointer Syntax					:	void (*foo)(int);
+			Reading Function Pointer Declarations	:	void *(*foo)(int *);
+			Initializing Function Pointers			:	To initialize a function pointer, you must give it the address of a function in your program. 
+														The syntax is like any other variable:
+
+															#include <stdio.h>
+															void my_int_func(int x)
+															{';lkj
+																printf( "%d\n", x );
+															}
+
+															int main()
+															{
+																void (*foo)(int);
+																/* the ampersand is actually optional */
+																foo = &my_int_func;
+
+																return 0;
+															}
+
+
+Qus : Preprocessor '#'?
+
+
+Qus : Where used SPI?
+Qus : where used i2c?
+Qus : where used ADC?
+
+Qus : Explain Project (Water Meter)?
+
+
+shadow registers, volitile keyword in embedded , asset section in embedded memory, i2c protocol, mqtt protocol, 
+
+SPI, EEPROM, IO, PWM, Timer, ADC / DAC, USART
+
+KPIT Technologies
+_______________________________________________________________
+2016_11_14 Interview at nerosnoptics 10.25 to 11PM
+
+What is RBM of Water flow sensor fan?
+	Ans : 1800rbm
+What is the plate size in fan of water flow sensor?
+	Ans : 2.5cm
+Block diagram of watermeter project?
+	Ans : Explained
+Circuit diagram of water meter project ?
+	Ans : Drew and Explained
+What is Operational Amplifier ?
+	Ans : drew Op-amp circuit but Not answere
+Draw and explain Low Pass Operatonal Amplifier ?
+	Ans : only drew Low pass filter and Not answere
+Draw the ciruit and explain of Common Emitter amplifier ?
+	Ans : only drew Circuit of common emmiter but Not answere
+How you choose Transistor ?
+	Ans : Not answere
+Design RC low pass filter ?
+	Ans : Drew low pass filter
+What is MOSFET ?
+	Ans : Not answere
+Major categories of NMOS and PMOS ?
+`	Ans : Not answere
+Where you used MOSFET in your project?
+	Ans : Not answere
+Diffrence between I2S and i2c ?
+	Ans : Answered
+Explain i2S protocol?
+	Ans : Not answere but answered partially
+What is PCM ?
+	Ans: Pulse code Modulation
+What is the operation of PCM in I2S?
+	Ans : Not answere
+What is SPI and I2C ?
+	Ans : Answered
+Explain about I2C Communication ?
+	Ans : Answered
+How slave address generate in I2C ?
+	Ans : Answered (refer Data sheet)
+Are you used Adc, I2c, PWM ?
+	Ans : Answered
+which tool your using for PCB and schematics ?
+	Ans : Eagle and Proteus
+Difference between Lua and c language ?
+	Ans : Answered
+Explain Stack layer of esp8266 ?
+	Ans : Answered
+What is the frequency of esp8266
+	Ans : 2.4Ghz
+	
+Why choosed IAR and CCS ?
+Where you used IAR and CCS complier ?
+	IAR -> STM8 controller and CCS -> CC2530
+
+How long work in IAR and CCS ?
+	IAR about 1year and CCS about 15days
+What are major things to consider for hardware design?
+	
+Why u looking for new job
+	Ans : To improve my skill sets and also good working environment
+What is Expected salary and is it negosiable ?
+	Ans : 3.6 to (Negosiable)3.4 
+
+
+______________________________________________________
+iMicro system 2016_10_21 (10.45 AM)
+Qus : Tel Me about YourSelf
+Qus : Digital Water Meter ??
+		Ans : Air flow in Didgital water Meter
+	Qus : Diffrence Between Analog Meter, Digital Meter and Mechanical Meter
+		Ans : Mechanical Meter & Analog Meter
+	Qus : How You measure the Sensor pulse signal, Pulse Width Measurement or Pulse count Measurement??
+		Ans : Pulse Count Method
+Qus : What is ESP8266 ??
+Qus : What tool using for PCB design and Circuit Design ?
+	Ans : PCB Eagle Tool
+Qus : Explain RS232 Communication ?
+	Ans : RS232	-	9pin connector
+	Qus : What is DTC, etc...
+Qus :I2C
+	Ans : 1 bit Start Bit, 8 Data bit, 1 Stop Bit
+Qus : Salary
+	Ans : Current Salary	-	2.4Laksh/Anum
+	Ans : Expectation	-	4Laksh/Anum		
+Qus : Why you ask 4laksh salary because your getting only 2.4Laksh/Anum ???
+
+_______________________________________________________________
+2016_12_16_Global Edge Software Solution
+Qus : Do You Know AWS Iot SDK??
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
