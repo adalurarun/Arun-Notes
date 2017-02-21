@@ -1,4 +1,4 @@
-﻿Transistors
+Transistors
 PNP
 NPN
 
@@ -6,9 +6,9 @@ NPN
 
 what is misra c ?
 
+What is the difference between C and C++?
+	The main difference is the object-oriented programming paradigm. C has structs to group related data together, but C++ also has classes that group data and code together. There is also other useful things like inheritance and Polymorphism.
 
-
-10.2724
 
 
 
