@@ -4,8 +4,6 @@ NPN
 
 
 
-what is misra c ?
-
 What is the difference between C and C++?
 	The main difference is the object-oriented programming paradigm. C has structs to group related data together, but C++ also has classes that group data and code together. There is also other useful things like inheritance and Polymorphism.
 
@@ -150,22 +148,9 @@ _______________________________________________________________
 
 C Interview Questions
 
-Q : What is Function Poiter?
-	int(*fun)(int, int, int)
-
-Q : Difference B/W Macro and function?
-	limitations of macros?
-
-Q : Diff between Variable declaration and variabale difination?
-
-Q : variable leftshift? value increase
-
-Q : What is LinkList? (point)
-1,2,3,4,5,
-
-Tranget
-%e and %g
-itreation and recurrsion   
+Q: What is Linked List? (point)
+Q: limitations of macros?
+Q: variable leftshift? value increase
 
 ________________________
 
@@ -203,8 +188,7 @@ Qus : What is Memory Optimization and code Optimization ?
 Qus : Write a Swaping to numbers without using third variable?
 
 Qus : What is function pointer?
-	Ans :	A function pointer is a variable that stores the address of a function that can later be called through that function pointer.
-			This is useful because functions encapsulate behavior. For instance, every time you need a particular behavior such as drawing a line, instead of writing out a bunch of code, all you need to do is call the function.
+	Ans :	A function pointer is a variable that stores the address of a function that can later be called through that function pointer. This is useful because functions encapsulate behavior. For instance, every time you need a particular behavior such as drawing a line, instead of writing out a bunch of code, all you need to do is call the function.
 			But sometimes you would like to choose different behaviors at different times in essentially the same piece of code.
 			Read on for concrete examples. 
 			
